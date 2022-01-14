@@ -1,0 +1,5 @@
+{
+	"ip":"woriorssmp.aternos.me",
+	"port": "13702",
+	"name": "pagla"
+}
